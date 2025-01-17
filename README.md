@@ -22,10 +22,15 @@ CHARTS REQUIREMENT
 ➤ Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products based on year-to-date sales to focus on key revenue generators.
 
 ➤ Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to understand customer preferences.
+
 Scope:
+
 Data Extraction: Utilize publicly available or simulated Amazon sales datasets.
+
 Data Cleaning: Handle missing values, duplicate entries, and inconsistent formats.
+
 Data Visualization: Use tools like Tableau, Power BI, or Matplotlib to present findings effectively.
+
 Statistical Analysis: Employ techniques such as regression analysis or clustering to draw insights.
 
 Tools and Technologies:
@@ -34,7 +39,9 @@ Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
 Data Visualization: Power BI, or Excel
 Database Management: SQL
 Additional Tools: Jupyter Notebook
+
 Outcome:
+
 The project provides actionable insights to improve sales strategies, optimize inventory, enhance customer experience, and increase revenue. The findings can also serve as a foundation for predictive modeling to forecast future sales trends.
 
 Use Case:
